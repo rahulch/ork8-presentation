@@ -2,7 +2,22 @@
 
 ---
 
-## Add Some Slide Candy
+## Tasks
 
-![](images/ork8.png)
+![](images/tasks.png)
+
+
+---
+
+## Dependency
+
+![](images/external-internal.png)
+
+
+---
+
+## Flows
+
+![](images/flow.png)
+
 
