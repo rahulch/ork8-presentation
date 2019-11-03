@@ -6,18 +6,11 @@
 
 ![](images/tasks.png)
 
-
 ---
-
-## Dependency
 
 ![](images/external-internal.png)
 
-
 ---
 
-## Flows
-
 ![](images/flow.png)
-
 
