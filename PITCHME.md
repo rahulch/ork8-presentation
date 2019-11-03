@@ -6,11 +6,7 @@
 
 ![](images/tasks.png)
 
----
+---?image=images/external-internal.png
 
-![](images/external-internal.png)
-
----
-
-![](images/flow.png)
+---?image=images/flow.png
 
