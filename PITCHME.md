@@ -6,7 +6,7 @@
 
 ![](images/tasks.png)
 
----?image=images/external-internal.png&size=auto 50%
+---?image=images/external-internal.png&size=auto 100%
 
----?image=images/flow.png&size=auto 50%
+---?image=images/flow.png&size=auto 100%
 
