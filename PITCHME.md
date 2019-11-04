@@ -37,7 +37,7 @@ curl -X POST http://localhost:9000/tasks/trigger
 @table[table-header table-fragment text-05](tables/macros.csv)
 
 +++ 
-### Solution: SideCar
+## Solution: SideCar
 ![Logo](https://media.giphy.com/media/l3vR9paUkdrl9GxUc/source.gif)
 
 +++?image=images/sidecar.png&size=auto 100%
