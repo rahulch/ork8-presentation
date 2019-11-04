@@ -42,10 +42,11 @@ curl -X POST http://localhost:9000/tasks/trigger
 
 +++?image=images/sidecar.png&size=auto 100%
 
+---?image=images/architecture.png&size=auto 100%
+
 --- 
 # Features
-+++
-
++++ 
 ## Core 
 - Outside App
 - From WithIn App
