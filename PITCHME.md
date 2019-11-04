@@ -11,7 +11,6 @@
 ---?image=images/context-problem.png&size=auto 100%
 
 +++
-
 ## Solutions
 
 Macros:
@@ -51,6 +50,7 @@ Variable | Description
 {{ conf }} | the full configuration object located at airflow.configuration.conf which represents the content of your airflow.cfg
 {{ run_id }} | the run_id of the current DAG run
 {{ dag_run }} | a reference to the DagRun object
+@snapend
 
 +++ 
 ### Solution: SideCar
