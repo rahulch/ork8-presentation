@@ -47,28 +47,28 @@ curl -X POST http://localhost:9000/tasks/trigger
 +++
 
 ## Core 
-<li> Outside App
-<li> From WithIn App
+- Outside App
+- From WithIn App
 
 +++ 
 UI
 
-+++
-## Flows
+---
+# Flows
 
-### Dynamic
+## Dynamic
 - CoinToss
 - MapReduce
 
-### Static
+## Static
 - Dag
 - DagWithWait
 
-### Mixed
+## Mixed
 - Dag
 - DagWithWait
 
-+++
+---
 ## IO
 - binary
 - json
@@ -76,35 +76,35 @@ UI
 - string
 - text
 
-+++
+---
 ## Integrations
 - datadog
 - github
 - pagerduty
 
-+++
+---
 ## Deployment
 - basic
 - docker
 - k8s
 - lambda
 
-+++
-## pplications
+---
+## Applications
 - ci
 - datapipeline
 - emr
 - jobpipeline
 - streaming
 
-+++ 
+--- 
 ## Clouds
 - aws
 - azure
 - gcp
 - onprem
 
-+++ 
+---
 ## Scale
 - MultiAPIMultiWorkers
 - SingleAPIMultiWorkers
