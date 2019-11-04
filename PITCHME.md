@@ -56,14 +56,17 @@ UI
 ---
 # Flows
 
++++
 ## Dynamic
 - CoinToss
 - MapReduce
 
++++
 ## Static
 - Dag
 - DagWithWait
 
++++
 ## Mixed
 - Dag
 - DagWithWait
