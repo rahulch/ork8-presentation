@@ -33,10 +33,9 @@ curl -X POST http://localhost:9000/tasks/trigger
 ```
 
 +++
-#### Problem: Too much context to pass
+## Problem: Too much context
 @table[table-header table-fragment text-05](tables/macros.csv)
 
 +++ 
 ### Solution: SideCar
 ![Logo](https://media.giphy.com/media/l3vR9paUkdrl9GxUc/source.gif)
-
