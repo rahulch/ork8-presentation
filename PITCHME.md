@@ -40,4 +40,4 @@ curl -X POST http://localhost:9000/tasks/trigger
 ### Solution: SideCar
 ![Logo](https://media.giphy.com/media/l3vR9paUkdrl9GxUc/source.gif)
 
----?image=images/sidecar.png&size=auto 100%
++++?image=images/sidecar.png&size=auto 100%
