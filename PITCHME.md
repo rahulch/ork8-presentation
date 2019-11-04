@@ -34,7 +34,7 @@ curl -X POST http://localhost:9000/tasks/trigger
 
 +++
 ## Problem: So much context to pass
-@table[table-header table-fragment](tables/macros.csv)
+@table[table-header table-fragment text-05](tables/macros.csv)
 
 +++ 
 ### Solution: SideCar
