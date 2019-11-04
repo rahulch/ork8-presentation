@@ -41,3 +41,72 @@ curl -X POST http://localhost:9000/tasks/trigger
 ![Logo](https://media.giphy.com/media/l3vR9paUkdrl9GxUc/source.gif)
 
 +++?image=images/sidecar.png&size=auto 100%
+
+--- 
+# Features
++++
+
+## Core 
+<li> Outside App
+<li> From WithIn App
+
++++ 
+UI
+
++++
+## Flows
+
+### Dynamic
+- CoinToss
+- MapReduce
+
+### Static
+- Dag
+- DagWithWait
+
+### Mixed
+- Dag
+- DagWithWait
+
++++
+## IO
+- binary
+- json
+- rpc
+- string
+- text
+
++++
+## Integrations
+- datadog
+- github
+- pagerduty
+
++++
+## Deployment
+- basic
+- docker
+- k8s
+- lambda
+
++++
+## pplications
+- ci
+- datapipeline
+- emr
+- jobpipeline
+- streaming
+
++++ 
+## Clouds
+- aws
+- azure
+- gcp
+- onprem
+
++++ 
+## Scale
+- MultiAPIMultiWorkers
+- SingleAPIMultiWorkers
+- SingleAPISingleWorker
+- StressTest
