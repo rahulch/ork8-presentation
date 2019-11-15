@@ -21,7 +21,7 @@
 - App Code Leakage
 - No Support for Dynamic Workflows
 - Bad UI
-- No Streaming Logs
+- No Streaming Logs / Graphs
 
 +++ 
 ## Future?
