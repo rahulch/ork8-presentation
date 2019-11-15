@@ -4,17 +4,19 @@
 # Constraints
 
 +++ 
-## Teamcity/Hudson/Jenkins: 10 years ago
+### Linear Workflows (10 yrs ago)
+- Teamcity
+- Hudson
+- Jenkins
 +++
-## Linear Workflows
-+++
-## Airflow/ Luigi/ Azkaban: Now
-+++
-## DAG
+## DAG (Current)
+- Airflow
+- Luigi
+- Azkaban: Now
 +++ 
 ## Future?
-+++ 
-## Ork8
++++
+![](images/0.png)
  
 ---
 # Constraint Free 
