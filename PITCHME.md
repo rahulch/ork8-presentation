@@ -17,12 +17,10 @@
 # Dynamic Execution
 +++?image=images/14.png&size=auto 80%
 +++?image=images/14.1.png&size=auto 80%
-+++?image=images/14.1.png&size=auto 80%
-![](https://www.uchinavisa.com/image-files/frog-in-a-well.gif.pagespeed.ce.vtdiQpxB2t.gif)
-+++
-![](https://www.uchinavisa.com/image-files/frog-in-a-well.gif.pagespeed.ce.vtdiQpxB2t.gif)
 +++?image=images/15.png&size=auto 80%
 +++?image=images/16.png&size=auto 80%
++++?image=images/14.1.png&size=auto 80%
+![](https://www.uchinavisa.com/image-files/frog-in-a-well.gif.pagespeed.ce.vtdiQpxB2t.gif)
 +++?image=images/17.png&size=auto 80%
 
 +++
@@ -57,10 +55,10 @@ curl -X POST http://localhost:9000/tasks/trigger
 
 +++?image=images/sidecar.png&size=auto 80%
 
----- 
+---
 # Event Driven
 +++?image=images/19.png&size=auto 80%
-+++?image=images/20.png&size=auto 80%
++++?image=images/20.png&size=auto 60%
 +++?image=images/21.png&size=auto 80%
 
 --- 
