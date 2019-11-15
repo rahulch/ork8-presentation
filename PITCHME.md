@@ -63,7 +63,7 @@ curl -X POST http://localhost:9000/tasks/trigger
 
 --- 
 # Scalable Architecture
----?image=images/18.png&size=auto 80%
++++?image=images/18.png&size=auto 80%
 
 --- 
 # Demos
@@ -84,4 +84,5 @@ curl -X POST http://localhost:9000/tasks/trigger
 ## Where is Serverless?
 +++?image=images/22.png&size=auto 80%
 +++?image=images/23.png&size=auto 80%
-
++++
+# Distributed
