@@ -1,19 +1,17 @@
 ![](images/0.png)
 
----?image=images/1.png&size=auto 100%
----?image=images/2.png&size=auto 100%
----?image=images/3.png&size=auto 100%
----?image=images/4.png&size=auto 100%
----?image=images/5.png&size=auto 100%
----?image=images/6.png&size=auto 100%
----?image=images/7.png&size=auto 100%
----?image=images/8.png&size=auto 100%
----?image=images/9.png&size=auto 100%
----?image=images/10.png&size=auto 100%
-+++
++++?image=images/1.png&size=auto 100%
++++?image=images/2.png&size=auto 80%
++++?image=images/3.png&size=auto 80%
++++?image=images/4.png&size=auto 80%
++++?image=images/5.png&size=auto 80%
++++?image=images/6.png&size=auto 80%
++++?image=images/7.png&size=auto 80%
++++?image=images/10.png&size=auto 80%
+---
 # DAG Execution
 ---?image=images/11.png&size=auto 100%
----?image=images/12.png&size=auto 100%
+---?image=images/12.png&size=auto 90%
 ---?image=images/13.png&size=auto 100%
 +++
 # Dynamic Execution
