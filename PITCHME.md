@@ -9,10 +9,20 @@
 - Hudson
 - Jenkins
 +++
-## DAG (Current)
+## DAGs (Current)
 - Airflow
 - Luigi
-- Azkaban: Now
+- Azkaban
++++ 
+## Other Problems
+- No support for proper Input/Output
+- Choice of language
+- Scheduling / Execution Mix-ups
+- App Code Leakage
+- No Support for Dynamic Workflows
+- Bad UI
+- No Streaming Logs
+
 +++ 
 ## Future?
 +++
