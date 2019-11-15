@@ -17,8 +17,7 @@
 # Dynamic Execution
 +++?image=images/14.png&size=auto 80%
 +++?image=images/14.1.png&size=auto 80%
-+++
-?image=images/14.1.png&size=auto 80%
++++?image=images/14.1.png&size=auto 80%
 ![](https://www.uchinavisa.com/image-files/frog-in-a-well.gif.pagespeed.ce.vtdiQpxB2t.gif)
 +++
 ![](https://www.uchinavisa.com/image-files/frog-in-a-well.gif.pagespeed.ce.vtdiQpxB2t.gif)
