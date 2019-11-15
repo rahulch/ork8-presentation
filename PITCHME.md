@@ -15,14 +15,16 @@
 +++?image=images/13.png&size=auto 100%
 ---
 # Dynamic Execution
-+++?image=images/execution-external.png&size=auto 100%
-+++?image=images/14.png&size=auto 100%
-+++?image=images/14.1.png&size=auto 100%
++++?image=images/14.png&size=auto 80%
++++?image=images/14.1.png&size=auto 80%
++++
+?image=images/14.1.png&size=auto 80%
+![](https://www.uchinavisa.com/image-files/frog-in-a-well.gif.pagespeed.ce.vtdiQpxB2t.gif)
 +++
 ![](https://www.uchinavisa.com/image-files/frog-in-a-well.gif.pagespeed.ce.vtdiQpxB2t.gif)
-+++?image=images/15.png&size=auto 100%
-+++?image=images/16.png&size=auto 100%
-+++?image=images/17.png&size=auto 100%
++++?image=images/15.png&size=auto 80%
++++?image=images/16.png&size=auto 80%
++++?image=images/17.png&size=auto 80%
 
 +++
 ## Solutions
@@ -54,17 +56,17 @@ curl -X POST http://localhost:9000/tasks/trigger
 ## Solution: SideCar
 ![](https://media.giphy.com/media/l3vR9paUkdrl9GxUc/source.gif)
 
-+++?image=images/sidecar.png&size=auto 100%
++++?image=images/sidecar.png&size=auto 80%
 
 ---- 
 # Event Driven
-+++?image=images/19.png&size=auto 100%
-+++?image=images/20.png&size=auto 100%
-+++?image=images/21.png&size=auto 100%
++++?image=images/19.png&size=auto 80%
++++?image=images/20.png&size=auto 80%
++++?image=images/21.png&size=auto 80%
 
 --- 
 # Scalable Architecture
----?image=images/18.png&size=auto 100%
+---?image=images/18.png&size=auto 80%
 
 --- 
 # Demos
@@ -83,6 +85,6 @@ curl -X POST http://localhost:9000/tasks/trigger
 
 ---
 ## Where is Serverless?
-+++?image=images/22.png&size=auto 100%
-+++?image=images/23.png&size=auto 100%
++++?image=images/22.png&size=auto 80%
++++?image=images/23.png&size=auto 80%
 
