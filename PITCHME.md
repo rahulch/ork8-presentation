@@ -1,5 +1,49 @@
 ![](images/0.png)
 
+--- 
+# Constraints
+
++++ 
+## Teamcity/Hudson/Jenkins: 10 years ago
++++
+## Linear Workflows
++++
+## Airflow/ Luigi/ Azkaban: Now
++++
+## DAG
++++ 
+## Future?
++++ 
+## Ork8
+ 
+---
+# Constraint Free 
++++ 
+## Proper Input/Output
++++
+## Turing Complete Workflows
++++
+## Functions could be anywhere
+- On-prem machines
+- In the cloud
+- Serverless functions - lambda / fargate
+- Kubernetes etc
++++ 
+## Scalable Backend
+- Scala
+- Akka
+- Play
++++
+## Nice UI
+- React 
+- TypeScript
++++
+## Well-built out HTTP APIs
++++
+## Streaming APIs for logs and graph executions 
+ 
+--- 
+# Intro 
 +++?image=images/1.png&size=auto 100%
 +++?image=images/2.png&size=auto 80%
 +++?image=images/3.png&size=auto 80%
